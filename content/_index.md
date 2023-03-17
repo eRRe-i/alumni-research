@@ -1,12 +1,13 @@
 ---
-title: 🪴 Quartz 3.3
+title: 🪴 Olá querida
 enableToc: false
 ---
 # Olá Mundo
 
-## [[Manuscrito]]
+## [Manuscrito](Manuscrito.md)
 
-## [[Discussão]]
+## [Discussão](Discussão.md)
 
-## [[Bibliografia]]
+## [Bibliografia](Bibliografia.md)
+
 
