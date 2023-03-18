@@ -2,7 +2,7 @@
 title: 📄 Alumni Research | Home
 enableToc: false
 ---
-## [Manuscrito](manuscrito.md)
+## [[manuscrito_list]]
 
 ## [Discussao](discussao.md)
 
