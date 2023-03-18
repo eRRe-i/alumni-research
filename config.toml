@@ -12,7 +12,7 @@ paginate = 10
 enableGitInfo = true
 defaultContentLanguage = 'pt'
 [languages]
-  [languages.ar]
+  [languages.pt]
     languagedirection = 'ltr'
     title = 'Português'
     weight = 1
