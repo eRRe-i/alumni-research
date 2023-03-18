@@ -1,5 +1,5 @@
 baseURL = "https://erre-i.github.io/alumni-research/"
-languageCode = "en-us"
+languageCode = "pt"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
