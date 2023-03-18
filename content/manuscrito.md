@@ -1,14 +1,18 @@
 ---
 title: Manuscrito
-enableToc: false
 ---
 # Manuscrito
 
-## [Introdução](manuscrito/introducao.md)
+## [[manuscrito/introducao]]
+
 ## [Capítulo 1](manuscrito/capitulo1.md)
+
 ## [Capítulo 2](manuscrito/capitulo2.md)
+
 ## [Capítulo 3](manuscrito/capitulo3.md)
+
 ## [Capítulo 4](manuscrito/capitulo4.md)
+
 ## [Conclusão](manuscrito/conclusao.md)
 
 ## [Changelog](manuscrito/changelog.md)
