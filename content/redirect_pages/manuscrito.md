@@ -6,16 +6,18 @@ enableToc: true
 
 O manuscrito é o texto consolidado a partir da pesquisa. É texto final que estará no TCC, montado a partir da reflexão na [[redirect_pages/discussao]] e referenciando a [[redirect_pages/bibliografia]]
 
+### [Changelog](manuscrito/changelog.md)
+
 ## [Introdução](manuscrito/introdução.md)
 
-## [[manuscrito/capitulo1]]
+## [Capítulo 1](manuscrito/capitulo1)
 
-## [[manuscrito/capitulo2]]
+## [Capítulo 2](manuscrito/capitulo2)
 
-## [[manuscrito/capitulo3]]
+## [Capítulo 3](manuscrito/capitulo3)
 
-## [[manuscrito/capitulo4]]
+## [Capítulo 4](manuscrito/capitulo4)
 
-## [[manuscrito/conclusao]]
+## [Conclusão](manuscrito/conclusao.md)
 
-## [[manuscrito/changelog]]
+
