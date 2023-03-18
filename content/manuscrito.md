@@ -1,10 +1,8 @@
 ---
 title: Manuscrito
-enableToc: true
+enableToc: false
 ---
 # Manuscrito
-
-O manuscrito é o texto consolidado a partir da pesquisa. É texto final que estará no TCC, montado a partir da reflexão na [Discussão](discussão.md) e referenciando a [Bibliografia](bibliografia.md) 
 
 ## [Introdução](manuscrito/introducao.md)
 ## [Capítulo 1](manuscrito/capitulo1.md)
@@ -15,3 +13,4 @@ O manuscrito é o texto consolidado a partir da pesquisa. É texto final que est
 
 ## [Changelog](manuscrito/changelog.md)
 
+O manuscrito é o texto consolidado a partir da pesquisa. É texto final que estará no TCC, montado a partir da reflexão na [Discussão](discussão.md) e referenciando a [Bibliografia](bibliografia.md) 
