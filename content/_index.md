@@ -2,8 +2,8 @@
 title: 📄 Alumni Research | Home
 enableToc: false
 ---
-## [manuscrito](manuscrito.md)
+## [Manuscrito](manuscrito.md)
 
-## [discussao](discussao.md)
+## [Discussao](discussao.md)
 
-## [bibliografia](bibliografia.md)
+## [Bibliografia](bibliografia.md)
