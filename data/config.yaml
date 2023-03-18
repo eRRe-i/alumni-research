@@ -1,4 +1,5 @@
-name: João Pedro Ribeiro e Leandro Bataglia
+name: João Pedro Ribeiro
+name2: Leandro Bataglia
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -23,7 +24,7 @@ description:
 page_title:
   "📄 Alumni Research"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: GitHub do João
+    link: https://github.com/JayPOS
+  - link_name: GitHub do Leandro
+    link: https://github.com/eRRe-i

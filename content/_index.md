@@ -7,5 +7,3 @@ enableToc: false
 ## [Discussão](Discussão.md)
 
 ## [Bibliografia](Bibliografia.md)
-
-
