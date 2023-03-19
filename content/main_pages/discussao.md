@@ -3,7 +3,7 @@ title: "Discussão"
 ---
 # Discussões
 
-Discussões são ideias mais oum,enos inacabadas que podem ou não tornarem-se parte de um capítulo ou subcapítulo do [Manuscrito](redirect_pages/manuscrito.md) e possui, sempre que possível, uma ou mais [Referências](redirect_pages/referencias.md)
+Discussões são ideias mais oum,enos inacabadas que podem ou não tornarem-se parte de um capítulo ou subcapítulo do [Manuscrito](main_pages/manuscrito.md) e possui, sempre que possível, uma ou mais [Referências](main_pages/referencias.md)
 
  | Arquivo                                                          | Última atualização      |
 | ---------------------------------------------------------------- | ----------------------- |

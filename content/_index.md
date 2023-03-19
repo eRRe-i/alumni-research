@@ -2,8 +2,8 @@
 title: Alumni Research | Home
 enableToc: false
 ---
-## [[redirect_pages/manuscrito]]
+## [Manuscrito](main_pages/manuscrito.md)
 
-## [Discussao](redirect_pages/discussao.md)
+## [Discussao](main_pages/discussao.md)
 
-## [Bibliografia](redirect_pages/bibliografia.md)
+## [Bibliografia](main_pages/bibliografia.md)
