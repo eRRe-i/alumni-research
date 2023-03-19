@@ -1,5 +1,6 @@
 ---
 title: "Bibliografia"
+enableToc: false
 ---
 # Bibliografia
 
