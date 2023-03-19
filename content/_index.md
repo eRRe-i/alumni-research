@@ -4,6 +4,6 @@ enableToc: false
 ---
 ## [[redirect_pages/manuscrito]]
 
-## [Discussao](redirect_pages/discussao.md)
+## [Discussao](discussao.md)
 
 ## [Bibliografia](redirect_pages/bibliografia.md)
