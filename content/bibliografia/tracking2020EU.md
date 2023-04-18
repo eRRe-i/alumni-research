@@ -1,5 +1,5 @@
 ---
-title: "Graduate tracking : a "how to do it well" guide"
+title: "Graduate tracking : a \"how to do it well\" guide"
 type: biblio
 ---
 # Graduate tracking : a "how to do it well" guide
