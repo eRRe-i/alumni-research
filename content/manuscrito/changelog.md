@@ -1,6 +1,0 @@
----
-title: "changelog"
----
-```dataview
-TABLE
-```

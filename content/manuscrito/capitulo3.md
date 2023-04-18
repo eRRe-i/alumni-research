@@ -1,3 +1,6 @@
 ---
-title: "Capítulo 3"
+title: "3. Proposta"
+type: chapter
+status: "⚠️"
+enableToc: false
 ---
