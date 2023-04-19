@@ -1,7 +1,7 @@
-*---
+---
 title: "Importância de monitorar os estudantes"
 type: reference
----*
+---
 Bibliografia: [[bibliografia/gaebel2012tracking]], 2012, pág 8
 
 O material referencia quatro motivos que justificam a importância do monitoramento dos graduados:

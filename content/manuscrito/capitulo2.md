@@ -11,7 +11,7 @@ Um dos objetivos parciais deste capítulo é informar quais as principais decis�
 - quais os objetivos do GTS, ou, quais as perguntas que o GTS busca responder?
 - quais as partes interessadas no GTS e quais delas podem fazer uso dos dados?
 - quais os tipos de dados que serão necessários para atender aos objetivos do projeto?
-- Esses dados estão disponíveis? Estão agregados?
+- onde e como estes dados estão disponíveis?
 
 Quanto mais clareza o responsável pelo GTS tem na etapa de design, menos problemas surgirão no momento da implementação.
 
