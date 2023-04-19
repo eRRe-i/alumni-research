@@ -1,1 +1,1 @@
-<%* const headers = ["Arquivo", "Última atualização"];const tableValues = DataviewAPI.pages('"reference"').sort(p => p.file.mtime, 'desc').map(p =>[p.file.link, p.file.mtime]);const myTable = DataviewAPI.markdownTable(headers, tableValues);-%> <% myTable %>
+<%* const headers = ["Arquivo", "Última atualização"];const tableValues = DataviewAPI.pages('"referencias"').sort(p => p.file.mtime, 'desc').map(p =>[p.file.link, p.file.mtime]);const myTable = DataviewAPI.markdownTable(headers, tableValues);-%> <% myTable %>
