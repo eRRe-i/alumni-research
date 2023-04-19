@@ -4,8 +4,6 @@ type: chapter
 status: "⚠️"
 enableToc: false
 ---
-# 2. Fundamentação Teórica
-
 Este capítulo abordará a respeito  dos Graduate Tracking Systems (GTS), iniciando com um breve histórico e a motivação para a existência dos mesmos, o que é preciso levar em consideração ao elaborar um GTS e o estado da arte, com as principais características dos modelos de maior sucesso.
 
 Um dos objetivos parciais deste capítulo é informar quais as principais decisões de design que precisam ser tomadas quando se pensa em um GTS. É comum, no desenvolvimento de um GTS, que algumas decisões não estejam claras para responsável. Questões como:

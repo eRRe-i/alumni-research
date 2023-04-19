@@ -1,9 +1,7 @@
 ---
-title: "Discussão"
+title: "Discussões"
 enableToc: false
 ---
-# Discussões
-
 Discussões são ideias mais ou menos inacabadas que podem ou não tornarem-se parte de um capítulo ou subcapítulo do [Manuscrito](main_pages/manuscrito.md) e possui, sempre que possível, apontando uma ou mais [Referências](main_pages/referencias.md)
 
  | Arquivo                                                                  | Última atualização      |

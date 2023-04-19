@@ -1,7 +1,5 @@
 ---
-title: "referencias"
-enableToc: false
+title: "Referências"
+enableToc: true
 ---
-# Referências
-
 Esta página ainda está em construção.
