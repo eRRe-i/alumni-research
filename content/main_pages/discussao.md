@@ -7,7 +7,7 @@ Discussões são ideias mais ou menos inacabadas que podem ou não tornarem-se p
  | Arquivo                                                                                                                              | Última atualização      |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
 | [[discussoes/3.3 Proposta.md\|3.3 Proposta]]                                                                                         | 19:49  - 19 April, 2023 |
-| [[discussoes/2.3 Objetivos de um GTS.md\|2.3 Objetivos de um GTS]]                                                                   | 19:45  - 19 April, 2023 |
+| [[discussoes/2.3 Objetivos e características de um GTS\|2.3 Objetivos de um GTS]]                                                                   | 19:45  - 19 April, 2023 |
 | [[discussoes/3.2 Trabalhos Relacionados.md\|3.2 Trabalhos Relacionados]]                                                             | 19:31  - 19 April, 2023 |
 | [[discussoes/3.1 Motivação.md\|3.1 Motivação]]                                                                                       | 19:03  - 19 April, 2023 |
 | [[discussoes/2.2 Histórico e Motivações para o desenvolvimento de GTS.md\|2.2 Histórico e Motivações para o desenvolvimento de GTS]] | 18:26  - 19 April, 2023 |
