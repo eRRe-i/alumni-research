@@ -3,7 +3,7 @@ title: "Para que um GTS pode ser usado"
 type: reference
 ---
 bibliografia: [[bibliografia/tracking2020EU]]
-discussão associada: [[discussoes/2.3 Objetivos e características de um GTS]]
+discussão associada: [[discussoes/2.2 Objetivos e características de um GTS]]
 
 Acompanhar o destino dos egressos pode prover inteligência crucial sobre a qualidade dos programas de aprendizado e até que ponto eles se relacionam com as necessidades do mercado, podendo ser usado para:
 

@@ -3,7 +3,7 @@ title: "O uso dos dados pelos stakeholders"
 type: reference
 ---
 bibliografia: [[bibliografia/tracking2020EU]]
-capítulo: [[discussoes/2.3 Objetivos e características de um GTS]]
+capítulo: [[discussoes/2.2 Objetivos e características de um GTS]]
 
 A extensão do uso das medidas de rastreamento de pós-graduação por vários interessados depende de como as informações são divulgadas. Os países adotaram uma série de abordagens para a disseminação, mas as práticas eficazes geralmente consistem em: 
 
