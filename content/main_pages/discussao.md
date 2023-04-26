@@ -8,7 +8,7 @@ Discussões são ideias mais ou menos inacabadas que podem ou não tornarem-se p
 | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
 | [[discussoes/2.1 Histórico e Motivações para o desenvolvimento de GTS.md\|2.1 Histórico e Motivações para o desenvolvimento de GTS]] | 15:58  - 26 April, 2023 |
 | [[discussoes/2.2 Objetivos e características de um GTS.md\|2.2 Objetivos e características de um GTS]]                               | 15:10  - 26 April, 2023 |
-| [[discussoes/2. Um panorama sobre Graduate Tracking Systems (GTSs)?.md\|2. Um panorama sobre Graduate Tracking Systems (GTSs)?]]     | 14:28  - 26 April, 2023 |
+| [[discussoes/2. Um panorama sobre Graduate Tracking Systems (GTSs)\|2. Um panorama sobre Graduate Tracking Systems (GTSs)?]]     | 14:28  - 26 April, 2023 |
 | [[discussoes/2.3 Portais de Egressos no contexto brasileiro.md\|2.3 Portais de Egressos no contexto brasileiro]]                     | 10:24  - 26 April, 2023 |
 | [[discussoes/3.3 Proposta.md\|3.3 Proposta]]                                                                                         | 19:49  - 19 April, 2023 |
 | [[discussoes/3.2 Trabalhos Relacionados.md\|3.2 Trabalhos Relacionados]]                                                             | 19:31  - 19 April, 2023 |
