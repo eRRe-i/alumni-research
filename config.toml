@@ -6,7 +6,8 @@ ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
     "/content/_examples/*",
-    "/content/templater/*"
+    "/content/templater/*",
+    "/content/manuscrito/*"
 ]
 summaryLength = 20
 paginate = 10
